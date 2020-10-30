@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/nagarkotideepak9/)
 - 😄 Pronouns:  He/His
 - ⚡ Fun fact:  if the moon has moonquakes, why milk have milkshakes? because milk is obtained by shaking😁😁
-
-[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&theme=onedark)](https://github.com/ndeepak)
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=onedark)
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndeepak&layout=compact&hide=roff&theme=onedark)](https://github.com/ndeepak/)
 
