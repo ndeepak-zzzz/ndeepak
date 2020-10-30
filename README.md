@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  He/His
 - ⚡ Fun fact:  if the moon has moonquakes, why milk have milkshakes? because milk is obtained by shaking😁😁
 
-[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&hide=stars,prs,issues,contribs)](https://github.com/ndeepak/github-readme-stats)
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&theme=onedark)](https://github.com/ndeepak)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=onedark)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=ndeepak&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndeepak&layout=compact&hide=roff&theme=onedark)](https://github.com/ndeepak/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndeepak&theme=onedark)](https://github.com/ndeepak)
